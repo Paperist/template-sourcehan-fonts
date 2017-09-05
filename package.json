@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "@paperist/template-sourcehan-fonts",
+  "description": "IPSJ tech report template for Paperist with uplatex",
+  "author": "3846masa <3846masahiro+git@gmail.com>",
+  "license": "OFL-1.1",
+  "homepage": "https://github.com/Paperist/template-sourcehan-fonts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Paperist/template-sourcehan-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Paperist/template-sourcehan-fonts/issues"
+  },
+  "version": "0.0.0",
+  "scripts": {
+    "postinstall": "postinstaller-for-template",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@paperist/postinstaller-for-template": "*"
+  }
+}
